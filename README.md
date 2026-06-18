@@ -25,4 +25,3 @@ Modern, responsive portfolio website showcasing my work as a .NET Full Stack Dev
 - Font Awesome 6
 - AOS (Animate on Scroll)
 
-### 📂 Project Structure
